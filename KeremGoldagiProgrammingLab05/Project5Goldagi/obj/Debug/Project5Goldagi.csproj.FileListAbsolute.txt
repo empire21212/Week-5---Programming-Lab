@@ -1,0 +1,10 @@
+C:\Users\KPC\Desktop\repos\Solution5Goldagi\Project5Goldagi\bin\Debug\Project5Goldagi.exe.config
+C:\Users\KPC\Desktop\repos\Solution5Goldagi\Project5Goldagi\bin\Debug\Project5Goldagi.exe
+C:\Users\KPC\Desktop\repos\Solution5Goldagi\Project5Goldagi\bin\Debug\Project5Goldagi.pdb
+C:\Users\KPC\Desktop\repos\Solution5Goldagi\Project5Goldagi\obj\Debug\Project5Goldagi.csproj.AssemblyReference.cache
+C:\Users\KPC\Desktop\repos\Solution5Goldagi\Project5Goldagi\obj\Debug\Project5Goldagi.frmChoices.resources
+C:\Users\KPC\Desktop\repos\Solution5Goldagi\Project5Goldagi\obj\Debug\Project5Goldagi.Properties.Resources.resources
+C:\Users\KPC\Desktop\repos\Solution5Goldagi\Project5Goldagi\obj\Debug\Project5Goldagi.csproj.GenerateResource.cache
+C:\Users\KPC\Desktop\repos\Solution5Goldagi\Project5Goldagi\obj\Debug\Project5Goldagi.csproj.CoreCompileInputs.cache
+C:\Users\KPC\Desktop\repos\Solution5Goldagi\Project5Goldagi\obj\Debug\Project5Goldagi.exe
+C:\Users\KPC\Desktop\repos\Solution5Goldagi\Project5Goldagi\obj\Debug\Project5Goldagi.pdb
